@@ -1,0 +1,48 @@
+Introdução ao Git e ao GitHub
+-------------------------------
+Git - Monitora diferentes versões de arquivos!
+*Permite mais flexibidade.
+
+1- Controle de versão
+2- Armazenamento em nuvem 
+3- Trabalho em equipe
+4- Melhorar seu código
+5- Reconhecimento
+
+Navegação Básica
+
+gui x cli
+
+Mudar de pasta: cd * cd
+Listar as pastas: dir * ls
+Criar pastas/arquivos: mkdir * mkdir
+Deletar pastas/arquivos: del/rmdir * rm -rf
+
+
+windows       unix
+-cd           cd
+-dir          ls
+-mkdir        mkdir
+-del/rmdir    rm -rf
+
+
+- sha1
+- objetos fund
+- sistema distribuido
+- segurança
+
+sha1: Algoritmo de hash seguro. Conjunto de funções de hash criptográficas projetadas pela nsa.
+A encriptação gera um conjunto de caracteres identificador de 40 digitos. É uma forma curta de apresentar um arquivo.
+-------
+Blobs
+Trees
+Commits
+-------
+
+Chaves ssh e Tokens
+
+Chaves ssh é uma forma segura de estabelecer conexão segura entre máquinas.
+
+Token de acesso pessoal
+
+-------
